@@ -1,1 +1,2 @@
 # BilateralFilter
+The bilateral filter is a popular image filtering technique used in image processing and computer vision. It's designed to reduce noise and smooth images while preserving important edges and details. Unlike traditional linear filters that only consider the pixel values within a local neighborhood, the bilateral filter takes into account both spatial distance and intensity differences between pixels. In this project, I implemented Bilateral Filtering for Gray and Color Images.
